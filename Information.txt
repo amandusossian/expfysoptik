@@ -1,0 +1,6 @@
+data1-6.txt innehåller de olika mätningarna som genomfördes i grunduppgiften.
+data21.txt innehåller första varma mätningen, startar på 50*C och går med ett steg i taget ner till sluttemperaturen 24*C
+data22.txt innehåller den första kalla mätningen, starttemp på 8*C, fuckad runt 18 *C dock
+data23.txt innehåller den andra kalla mätningen, starttemp 8*C
+data24.txt innehåller den tredje kalla mätningen, starttemp 6*C
+data25.txt innehåller den andra varma mätningen, starttemp 50*C, slut vid 24
